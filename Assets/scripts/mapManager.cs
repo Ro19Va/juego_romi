@@ -36,5 +36,6 @@ public class mapManager : MonoBehaviour
         yMax *= -1;
         moveSpeed *= -1;
         this.gameObject.transform.Rotate(0, 0,180);
+        //sdfsfsf
     }
 }
